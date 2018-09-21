@@ -24,6 +24,8 @@
 
 [Диаграмма прецендентов](http://www.plantuml.com/plantuml/png/fP7FIiD04CRFtQSOSj93mGSGQUeva9ld9LdRfMbMPZTui8Aje0VnuDMB-0RnJwLQcsUOVICdIIF5guI5uPlVzyqC6LWdqHNJJDY9piyaoYd8n1c42z4RocGoGbFawR79M3ePQwT4BqGqvwqop1XXq62gS5UwtCahh4gaLVzEpDIf0sS0zMZi8DMe4gTDBjfzumEG5W9we1MjQUaNjF5tz0b-pcL5ws3BHLlkcLPDQqdVL8A_hqtqvHV-YkaDVnMzKGN-sjysQMNG3MhzJmtuJYMzSl_cDxxjFbB9wVFQrPqV_lLzy5nwwTQjqHZwVTWBzmM_kem4NtKuuoeM4Gkp8rvV35IUyX_x0G00)  
 
+[Диаграмма прецендентов код](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%20%D0%BF%D1%80%D0%B5%D1%86.txt)  
+
 ## Лабораторная 2
 
 ## Лабораторная 3
