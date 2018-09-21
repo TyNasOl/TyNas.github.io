@@ -12,9 +12,13 @@
 
 
 ### Продавец продает билет с помощью кассы по ценам из прайс-листа, используя заплаченные деньги  
-![Посмотреть IDEF0]
+![Посмотреть IDEF0](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/01_A0.jpg)  
+[Посмотреть IDEF0](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/01_A0.jpg)  
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
+![Диаграмма классов](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2%20%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)  
+[Диаграмма классов](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2%20%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)  
+
+[Диаграмма классов код](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.txt)  
 
 Ссылки на доп.материалы
 http://127.0.0.1:50009/idef0/index.html?id=3
