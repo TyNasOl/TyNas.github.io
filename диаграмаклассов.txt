@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Продавец" as P {
+ Касса
+Продает билет (Деньги, По прайс-листу)
+}
+hide circle
+@enduml
