@@ -1,6 +1,6 @@
 # TyNasOl.github.io
 # Отчет а лабораторных работах
-# студент группы [ИДБ-15-ХХ](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Фамилия И.О.
+# студент группы [ИДБ-15-12](https://github.com/stankin/design-2018/wiki/list-idb-15-12) Тупикова А.О.
 
 ## Лабораторная 1
 
