@@ -28,6 +28,29 @@
 
 ## Лабораторная 2
 
+### Определение надсистемы (среды функционирования)
+* Создание новой модели в РАМУС из шаблона "Plan-Do-Check"
+* Перенос данных из диаграммы "шесть вопросов" в блок "Do"
+* Определение видов деятельности и потоков для блоков "Plan" и "Check"
+
+
+***
+* IDEF0
+
+![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/1.png)
+
+* Plan-Do-Check
+
+![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2.png)
+
+* DFD
+
+![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3.png)
+
+* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/pdc-tilda.rsf)
+***
+
+
 ## Лабораторная 3
 
 ## Лабораторная 4
