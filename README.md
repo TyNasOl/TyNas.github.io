@@ -43,7 +43,7 @@
 
 ![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2.png)
 
-* DFD
+* DFD (A1)
 
 ![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3.png)
 
@@ -52,6 +52,20 @@
 
 
 ## Лабораторная 3
+
+Описание хранилищ данных
+Определение хранилищ данных в DFD (таблицы, файлы, массивы)
+Открытие проекта в веб-браузере, получение и сохранение модели в развернутом виде
+Загрузка модели в репозиторий личного проекта
+Добавление ссылки на модель в файл readme.md
+
+***
+* DFD (A1)
+
+![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3.png)
+
+* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/pdc-tilda.rsf)
+***
 
 ## Лабораторная 4
 
