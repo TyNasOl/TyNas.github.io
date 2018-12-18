@@ -98,7 +98,7 @@
 ![A22](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/09_A22.png)
 
 
-![A3](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/10_A3.png)
+![A3](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/10_A3%20(1).png)
 
 * Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование)
   * Рабочие станции (ПК).
