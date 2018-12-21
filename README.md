@@ -126,4 +126,5 @@
 [Код UML для модулей](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt)
 
 ## Курсовой проект 
-## Лабораторная 7
+[курсовая](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/Курсовая.docx).  
+
