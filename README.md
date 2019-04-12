@@ -93,12 +93,12 @@
 ![A13](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/06_A13.png)  
 
 
-![A2](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/07_A2.png)
-![A21](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/08_A21.png)
-![A22](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/09_A22.png)
+![A2](https://github.com/TyNasOl/TyNas.github.io/blob/master/07_A2.png)
+![A21](https://github.com/TyNasOl/TyNas.github.io/blob/master/08_A21.png)
+![A22](https://github.com/TyNasOl/TyNas.github.io/blob/master/09_A22.png)
 
 
-![A3](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/10_A3%20(1).png)
+![A3](https://github.com/TyNasOl/TyNas.github.io/blob/master/10_A3%20(1).png)
 
 * Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование)
   * Рабочие станции (ПК).
@@ -110,21 +110,21 @@
 ## Лабораторная 6
 ### Завершение идентификации всех потоков
   - Построение ERD (диаграммы классов без атрибутов) для всех потоков
-  ![](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)  
-  [Код UML для потоков](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt)
+  ![](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)  
+  [Код UML для потоков](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt)
   
 ### Завершение идентификации всех ролей
   - Построение ERD (диаграммы классов без атрибутов) для всех ролей  
-![](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)  
+![](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)  
 
-[Код UML для ролей](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.txt)
+[Код UML для ролей](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.txt)
 
 ### Завершение идентификации всех модулей
   - Построение ERD (диаграммы классов без атрибутов) для всех модулей
-![](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8.png)  
+![](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8.png)  
 
-[Код UML для модулей](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt)
+[Код UML для модулей](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt)
 
 ## Курсовой проект 
-[курсовая](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/Курсовая.docx).  
+[курсовая](https://github.com/TyNasOl/TyNas.github.io/blob/master/Курсовая.docx).  
 
