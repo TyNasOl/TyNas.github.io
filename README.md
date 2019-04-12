@@ -12,19 +12,19 @@
 
 
 ### Продавец продает билет с помощью кассы по ценам из прайс-листа, используя заплаченные деньги  
-![Посмотреть IDEF0](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/01_A0.jpg)  
+![Посмотреть IDEF0](https://github.com/TyNasOl/TyNas.github.io/blob/master/01_A0.jpg)  
 [Посмотреть IDEF0](http://127.0.0.1:50009/idef0/index.html?id=3)  
 
-![Диаграмма классов](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2%20%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)  
+![Диаграмма классов](https://github.com/TyNasOl/TyNas.github.io/blob/master/2%20%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)  
 [Диаграмма классов](http://www.plantuml.com/plantuml/png/JSzFIiGm5CVnzUGKZwuKz0xZU05thaCIR6ZQo4kBYq6m8xXowSfDhn3_52hYU8LVRkJ3MUWk_FZm3M-TUitzq0QL6jzTQzOjcQ1JegrQRRHfhZWEdJsF8J9TrhvtQdN676yEooO84HZPElu_tQf3fS9Kxh37Ep9UCPU7YdIY2waJdf7BM4PazOU4x0WlMF3v-pp24sPybKUyOJaXJDWJlaLdV9JnLDGYZLsvFvOlQsyT6SycEBLsdPMpVW00)  
 
-[Диаграмма классов код](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.txt)  
+[Диаграмма классов код](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.txt)  
 
-![Картинка](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%BD.png)
+![Картинка](https://github.com/TyNasOl/TyNas.github.io/blob/master/3%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%BD.png)
 
 [Диаграмма прецендентов](http://www.plantuml.com/plantuml/png/fP7FIiD04CRFtQSOSj93mGSGQUeva9ld9LdRfMbMPZTui8Aje0VnuDMB-0RnJwLQcsUOVICdIIF5guI5uPlVzyqC6LWdqHNJJDY9piyaoYd8n1c42z4RocGoGbFawR79M3ePQwT4BqGqvwqop1XXq62gS5UwtCahh4gaLVzEpDIf0sS0zMZi8DMe4gTDBjfzumEG5W9we1MjQUaNjF5tz0b-pcL5ws3BHLlkcLPDQqdVL8A_hqtqvHV-YkaDVnMzKGN-sjysQMNG3MhzJmtuJYMzSl_cDxxjFbB9wVFQrPqV_lLzy5nwwTQjqHZwVTWBzmM_kem4NtKuuoeM4Gkp8rvV35IUyX_x0G00)  
 
-[Диаграмма прецендентов код](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%20%D0%BF%D1%80%D0%B5%D1%86.txt)  
+[Диаграмма прецендентов код](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%20%D0%BF%D1%80%D0%B5%D1%86.txt)  
 
 ## Лабораторная 2
 
@@ -37,17 +37,17 @@
 ***
 * IDEF0
 
-![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/1.png)
+![none](https://github.com/TyNasOl/TyNas.github.io/blob/master/1.png)
 
 * Plan-Do-Check
 
-![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/2.png)
+![none](https://github.com/TyNasOl/TyNas.github.io/blob/master/2.png)
 
 * DFD (A1)
 
-![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3.png)
+![none](https://github.com/TyNasOl/TyNas.github.io/blob/master/3.png)
 
-* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/pdc-tilda.rsf)
+* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNas.github.io/blob/master/pdc-tilda.rsf)
 ***
 
 
@@ -62,9 +62,9 @@
 ***
 * DFD (A1)
 
-![none](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/3.png)
+![none](https://github.com/TyNasOl/TyNas.github.io/blob/master/3.png)
 
-* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/pdc-tilda.rsf)
+* [Диаграмма в формате .rsf](https://github.com/TyNasOl/TyNas.github.io/blob/master/pdc-tilda.rsf)
 ***
 
 ## Лабораторная 4  
@@ -76,21 +76,21 @@
   - Формальное определение темы курсового проекта (наименование информационной системы)   
 
 ### Разработка диаграмм в RAMUS
-[Скачать rsf файл](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.rsf)
+[Скачать rsf файл](https://github.com/TyNasOl/TyNas.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.rsf)
 * Создание контекстной диаграммы и диаграммы уровня A0 c 3-4 блоками  
-![A](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/01_A0.png)  
-![A0](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/02_A0.png)  
+![A](https://github.com/TyNasOl/TyNas.github.io/blob/master/01_A0.png)  
+![A0](https://github.com/TyNasOl/TyNas.github.io/blob/master/02_A0.png)  
 * Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
-![A1](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/03_A1.png)  
-![A2](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/07_A2.png)   
+![A1](https://github.com/TyNasOl/TyNas.github.io/blob/master/03_A1.png)  
+![A2](https://github.com/TyNasOl/TyNas.github.io/blob/master/07_A2.png)   
 
 ## Лабораторная 5
 ### Разработка диаграмм в RAMUS
 * Декомпозиция всех автоматизируемых блоков в DFD
 
-![A11](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/04_A11.png)  
-![A12](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/05_A12.png)  
-![A13](https://github.com/TyNasOl/TyNasOl.github.io/blob/master/06_A13.png)  
+![A11](https://github.com/TyNasOl/TyNas.github.io/blob/master/04_A11.png)  
+![A12](https://github.com/TyNasOl/TyNas.github.io/blob/master/05_A12.png)  
+![A13](https://github.com/TyNasOl/TyNas.github.io/blob/master/06_A13.png)  
 
 
 ![A2](https://github.com/TyNasOl/TyNas.github.io/blob/master/07_A2.png)
